@@ -9,7 +9,7 @@ I've been studying web development since 2020, focusing on Front-end.
 * 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
 * 🚀 Bootcamp Web Development Fullstack - Rocketseat
 * ☕ Advanced Javascript - Udemy
-<p align="right"><img src="https://svgshare.com/i/UAo.svg" width="200" height="200"><p/>
+
 <p><strong>Main languages:</strong> Javascript, HTML, CSS, Python.<br>
 
 <strong>Languages ​​in my sights:</strong> Languages ​​in my sights: Rust, Elixir.</p>
