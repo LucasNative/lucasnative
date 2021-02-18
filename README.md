@@ -6,18 +6,18 @@ I've been studying web development since 2020, focusing on Front-end.
 
 **Courses i'm taking:**
 
-👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
-🚀 Bootcamp Web Development Fullstack - Rocketseat
-☕ Advanced Javascript - Udemy
+* 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
+* 🚀 Bootcamp Web Development Fullstack - Rocketseat
+* ☕ Advanced Javascript - Udemy
 
 * Main languages:  Javascript, HTML, CSS, Python.
 * Languages ​​in my sights: Rust, Elixir.
 
 
  **A little more about me:**
- I'm a tattoo artst, vegetarian, and love metal music.
- My favorite movie is The Lord of The Rings (all).
- My favorite series is Halt and Catch Fire.
- My favorite game is Borderlands 3!
+ * I'm a tattoo artst, vegetarian, and love metal music.
+ * My favorite movie is The Lord of The Rings (all).
+ * My favorite series is Halt and Catch Fire.
+ * My favorite game is Borderlands 3!
                                        
-![Code typing-bro](https://user-images.githubusercontent.com/65367775/108401094-bce7c280-71fa-11eb-9cb4-49908af68410.png =300x300)
+<p align="center"><img src="https://svgshare.com/i/UB6.svg" width="350" height="350"><p/>
