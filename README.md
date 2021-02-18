@@ -10,8 +10,9 @@ I've been studying web development since 2020, focusing on Front-end.
 * 🚀 Bootcamp Web Development Fullstack - Rocketseat
 * ☕ Advanced Javascript - Udemy
 
-* Main languages:  Javascript, HTML, CSS, Python.
-* Languages ​​in my sights: Rust, Elixir.
+<p><strong>Main languages:</strong> Javascript, HTML, CSS, Python.<br>
+
+<strong>Languages ​​in my sights:</strong> Languages ​​in my sights: Rust, Elixir.</p>
 
 
  **A little more about me:**
@@ -20,4 +21,4 @@ I've been studying web development since 2020, focusing on Front-end.
  * My favorite series is Halt and Catch Fire.
  * My favorite game is Borderlands 3!
                                        
-<p align="center"><img src="https://svgshare.com/i/UAo.svg" width="350" height="350"><p/>
+<p align="right"><img src="https://svgshare.com/i/UAo.svg" width="310" height="310"><p/>
