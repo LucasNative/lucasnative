@@ -20,4 +20,4 @@ I've been studying web development since 2020, focusing on Front-end.
  * My favorite series is Halt and Catch Fire.
  * My favorite game is Borderlands 3!
                                        
-<p align="center"><img src="https://svgshare.com/i/UB6.svg" width="350" height="350"><p/>
+<p align="center"><img src="https://svgshare.com/i/UAo.svg" width="350" height="350"><p/>
