@@ -7,7 +7,7 @@ I've been studying web development since 2020, focusing on Front-end.
 **Courses i'm taking:**
 
 * 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
-* 🚀 Bootcamp Web Development Fullstack - Rocketseat
+* 🚀 Web Development Fullstack - Rocketseat
 * ☕ Advanced Javascript - Udemy
 
 <p><strong>Main languages:</strong> Javascript, HTML, CSS, Python.<br>
@@ -16,7 +16,7 @@ I've been studying web development since 2020, focusing on Front-end.
 
 
  **A little more about me:**
- * I'm a tattoo artst, vegetarian, and love metal music.
+ * I'm a tattoo artst, vegetarian, and i love metal music.
  * My favorite movie is The Lord of The Rings (all).
  * My favorite series is Halt and Catch Fire.
  * My favorite game is Borderlands 3!
