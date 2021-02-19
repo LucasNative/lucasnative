@@ -2,7 +2,7 @@
 <p  align="left"><a  href="https://twitter.com/LucasDanielSan" target="_blank"><img  src="https://svgshare.com/i/UBK.svg"  alt="ttt"  height="25"  width="25"></a>  &nbsp <a  href="https://www.linkedin.com/in/lucasnative/" target="_blank"><img  src="https://svgshare.com/i/U9b.svg"  alt=""  width="25"  height="25" ></a></p>
 My name is Lucas "Native" Daniel dos Santos, i'm from São Paulo - Brazil.  🇧🇷
 
-I've been studying web development since 2020, focusing on Front-end.
+I've been studying Web Development since 2020, focusing on Front-end.
 
 **Courses i'm taking:**
 
