@@ -23,7 +23,7 @@ I've been studying Web Development since 2020, focusing on Front-end.
   <a href="https://www.gnu.org/software/bash/" target="_black"><img src="https://svgshare.com/i/Uss.svg" alt="linux logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
 </div>
 
-<div style="height: 3px; width: 600px; background-color: rgb(202, 202, 202);"></div>
+<div style="height: 3px; width: 600px; background-color: rgb(202, 202, 202);"> a</div>
 
  **A little more about me:**
  * I'm a tattoo artst, vegetarian, and i love metal music.
