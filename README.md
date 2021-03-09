@@ -18,12 +18,12 @@ I've been studying Web Development since 2020, focusing on Front-end.
   
 <div style="height: 2px; width: 100%; background-color: rgb(202, 202, 202);"></div>
  
-<div style="display: flex; align-items: center;" > <p><strong>Technologies</strong></p>&nbsp <a href="https://code.visualstudio.com/" target="_black"><img src="https://svgshare.com/i/UrB.svg" alt="vscode logo" height="43" width="43" style="margin-right: 2.4px;"/></a>
-  <a href="https://www.gnu.org/" target="_black"><img src="https://svgshare.com/i/Usq.svg" alt="linux logo" height="43" width="43" style="margin-right: 2.4px;"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_black"><img src="https://svgshare.com/i/Usq.svg" alt="linux logo" height="43" width="43" style="margin-right: 2.4px;"/></a>
+<div style="display: flex; align-items: center;" > <p><strong>Technologies</strong></p>&nbsp <a href="https://code.visualstudio.com/" target="_black"><img src="https://svgshare.com/i/UrB.svg" alt="vscode logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
+  <a href="https://www.gnu.org/" target="_black"><img src="https://svgshare.com/i/Usq.svg" alt="linux logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
+  <a href="https://www.gnu.org/software/bash/" target="_black"><img src="https://svgshare.com/i/Uss.svg" alt="linux logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
 </div>
 
-<div style="height: 2px; width: 100%; background-color: rgb(202, 202, 202);"></div>
+<div style="height: 3px; width: 600px; background-color: rgb(202, 202, 202);"></div>
 
  **A little more about me:**
  * I'm a tattoo artst, vegetarian, and i love metal music.
