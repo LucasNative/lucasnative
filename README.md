@@ -10,7 +10,7 @@ I've been studying Web Development since 2020, focusing on Front-end.
 * 🚀 Web Development Fullstack - Rocketseat
 * ☕ Advanced Javascript - Udemy
 
-<p><strong>Main languages:</strong> <a href="https://www.w3schools.com/js/default.asp" target="_black"><img src="https://i.ibb.co/6HT0CRv/kisspng-javascript-logo-html-comment-blog-5ae63c22d40699-0773573515250381148685.jpg" alt="JS logo" heigt="25"></a>
+<p><strong>Main languages:</strong> <a href="https://www.w3schools.com/js/default.asp" target="_black"><img src="https://svgshare.com/i/Ur2.svg" alt="JS logo" height="25" width="25"/></a>
 <strong>Languages ​​in my sights:</strong> Rust, Elixir.</p>
 
 
