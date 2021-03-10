@@ -9,17 +9,15 @@ I've been studying Web Development since 2020, focusing on Front-end.
 * 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
 * 🚀 Web Development Fullstack - Rocketseat
 * ☕ Advanced Javascript - Udemy
-
+<br/>
 <div style="display: flex; align-items: center; margin-botton:15px;"> <p style="font-size: 20px;"><strong>Main Languages:</strong></p>
   <a href="https://www.w3schools.com/html/default.asp" target="_black"><img src="https://svgshare.com/i/UsU.svg" alt="html logo" height="43" width="43"/></a>&nbsp 
   <a href="https://www.w3schools.com/css/default.asp" target="_black"><img src="https://svgshare.com/i/UsW.svg" alt="css logo" height="43" width="43"/></a>&nbsp 
   <a href="https://www.w3schools.com/js/default.asp" target="_black"><img src="https://svgshare.com/i/Usy.svg" alt="JS logo" height="43" width="43"/></a>&nbsp 
   <a href="https://www.w3schools.com/python/default.asp" target="_black"><img src="https://svgshare.com/i/Ut0.svg" alt="python logo" height="43" width="43"/></a>&nbsp</div>
-  
-  <br/>
-  ---
-  <br/>  
- 
+---
+---
+<br/>
 <div style="display: flex; align-items: center;" > <p style="font-size: 20px;"><strong style="font-size: 50px;">T/Tools and technologies:</strong></p> &nbsp <a href="https://code.visualstudio.com/" target="_black"><img src="https://svgshare.com/i/UrB.svg" alt="vscode logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
   <a href="https://www.gnu.org/" target="_black"><img src="https://svgshare.com/i/Usq.svg" alt="linux logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
   <a href="https://www.gnu.org/software/bash/" target="_black"><img src="https://svgshare.com/i/Uss.svg" alt="bash logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
