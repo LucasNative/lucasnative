@@ -8,7 +8,7 @@ I've been studying Web Development since 2020, focusing on Front-end.
 
 * 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
 * 🚀 Web Development Fullstack - Rocketseat
-* ☕ Advanced Javascript - Udemy
+* :dart: in love whith Dart Language
 ***
 <div style="display: flex; align-items: center; margin-botton:15px;"> <p style="font-size: 20px;"><strong>Main Languages:</strong></p>
   <a href="https://www.w3schools.com/html/default.asp" target="_black"><img src="https://svgshare.com/i/UsU.svg" alt="html logo" height="43" width="43"/></a>&nbsp 
