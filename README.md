@@ -6,8 +6,8 @@ I've been studying Web Development since 2020, focusing on Front-end.
 
 **Courses i'm taking:**
 
+* Software Engineer - 42SP Cursus
 * 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
-* 🚀 Web Development Fullstack - Rocketseat
 * :dart: in love whith Dart Language
 ***
 <div style="display: flex; align-items: center; margin-botton:15px;"> <p style="font-size: 20px;"><strong>Main Languages:</strong></p>
