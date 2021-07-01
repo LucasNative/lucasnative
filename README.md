@@ -24,7 +24,6 @@ I've been studying Web Development since 2020, focusing on Front-end.
   <a href="https://www.gnu.org/software/bash/" target="_black"><img src="https://svgshare.com/i/Uss.svg" alt="bash logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
   <a href="https://git-scm.com/" target="_black"><img src="https://svgshare.com/i/Ura.svg" alt="git logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
   <a href="https://github.com/" target="_black"><img src="https://i.ibb.co/VJ3y6Dv/Octocat.png" alt="github logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
-  <a href="https://reactjs.org/" target="_black"><img src="https://svgshare.com/i/UsK.svg" alt="react logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
   <a href="https://www.figma.com/blog/with-figmas-new-svg-exports-less-more/" target="_black"><img src="https://svgshare.com/i/Uto.svg" alt="figma logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
 </div>
 
