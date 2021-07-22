@@ -10,13 +10,7 @@ I've been studying Web Development since 2020, focusing on Front-end.
 * 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
 * :dart: in love whith Dart Language
 ***
-<div style="display: flex; align-items: center; margin-botton:15px;"> <p style="font-size: 20px;"><strong>Main Languages:</strong></p>
-  <a href="https://www.w3schools.com/html/default.asp" target="_black"><img src="https://svgshare.com/i/UsU.svg" alt="html logo" height="43" width="43"/></a>&nbsp 
-  <a href="https://www.w3schools.com/css/default.asp" target="_black"><img src="https://svgshare.com/i/UsW.svg" alt="css logo" height="43" width="43"/></a>&nbsp 
-  <a href="https://www.w3schools.com/js/default.asp" target="_black"><img src="https://svgshare.com/i/Usy.svg" alt="JS logo" height="43" width="43"/></a>&nbsp 
-  <a href="https://www.python.org/" target="_black"><img src="https://svgshare.com/i/Ut0.svg" alt="python logo" height="43" width="43"/></a>&nbsp 
-  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_black"><img src="https://svgshare.com/i/Xju.svg" alt="C logo" height="43" width="43"/></a>&nbsp</div>
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnative&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   ***
 
 <div style="display: flex; align-items: center;" > <p> <strong>Tools and technologies:</strong> </p> &nbsp <a href="https://code.visualstudio.com/" target="_black"><img src="https://svgshare.com/i/UrB.svg" alt="vscode logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
