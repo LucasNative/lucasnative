@@ -8,17 +8,17 @@ I've been studying Web Development since 2020, focusing on Front-end.
 
 * 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
 * :dart: in love whith Dart Language
-* studying GO  <a href="https://www.aprendago.com" target="_black""/>aprendago.com</a>
+* studying GO  <a href="https://www.aprendago.com" target="_blank"/>aprendago.com</a>
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnative&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   ***
 
 <div style="display: flex; align-items: center;" > <p> <strong>Tools and technologies:</strong> </p> &nbsp <a href="https://code.visualstudio.com/" target="_black"><img src="https://svgshare.com/i/UrB.svg" alt="vscode logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
-  <a href="https://www.gnu.org/" target="_black"><img src="https://svgshare.com/i/Usq.svg" alt="linux logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
+  <a href="https://www.gnu.org/" target="_blank"><img src="https://svgshare.com/i/Usq.svg" alt="linux logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
   <a href="https://www.gnu.org/software/bash/" target="_black"><img src="https://svgshare.com/i/Uss.svg" alt="bash logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
-  <a href="https://git-scm.com/" target="_black"><img src="https://svgshare.com/i/Ura.svg" alt="git logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
-  <a href="https://github.com/" target="_black"><img src="https://i.ibb.co/VJ3y6Dv/Octocat.png" alt="github logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
-  <a href="https://www.figma.com/blog/with-figmas-new-svg-exports-less-more/" target="_black"><img src="https://svgshare.com/i/Uto.svg" alt="figma logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
+  <a href="https://git-scm.com/" target="_blank"><img src="https://svgshare.com/i/Ura.svg" alt="git logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
+  <a href="https://github.com/" target="_blank"><img src="https://i.ibb.co/VJ3y6Dv/Octocat.png" alt="github logo" height="43" width="43" style="margin-right: 2.4px;"/></a>&nbsp 
+  <a href="https://www.figma.com/blog/with-figmas-new-svg-exports-less-more/" target="_blank"><img src="https://svgshare.com/i/Uto.svg" alt="figma logo" height="43" width="43" style="margin-right: 2.4px;"/></a> &nbsp 
 </div>
 
 
