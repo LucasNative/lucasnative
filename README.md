@@ -6,9 +6,9 @@ I've been studying Web Development since 2020, focusing on Front-end.
 
 **Courses i'm taking:**
 
-* Software Engineer - 42SP Cursus
 * 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
 * :dart: in love whith Dart Language
+* studying GO  <a href="https://www.aprendago.com" target="_black""/>aprendago.com</a>
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnative&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   ***
