@@ -6,7 +6,7 @@ I've been studying Web Development since 2020, focusing on Front-end.
 
 **Courses i'm taking:**
 
-* Studying Cybersecurity on <a href="https://www.aprendago.com" target="_blank"/>aprendago.com</a>
+* Studying Cybersecurity on <a href="https://www.hackersdobem.org.br" target="_blank"/>Hackers do Bem</a>
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnative&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   ***
