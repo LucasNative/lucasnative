@@ -1,14 +1,12 @@
 # Hello Github!
-<p  align="left"><a  href="https://twitter.com/LucasDanielSan" target="_blank"><img  src="https://svgshare.com/i/UBK.svg"  alt="twitter logo"  height="28"  width="28"></a>  &nbsp <a  href="https://www.linkedin.com/in/lucasnative/" target="_blank"><img  src="https://svgshare.com/i/U9b.svg"  alt="Linkedin logo"  width="28"  height="28" ></a></p>
+<p  align="left"><a  href="https://www.linkedin.com/in/lucasnative/" target="_blank"><img  src="https://svgshare.com/i/U9b.svg"  alt="Linkedin logo"  width="28"  height="28" ></a></p>
 My name is Lucas "Native" Daniel dos Santos, i'm from São Paulo - Brazil.  🇧🇷
 
 I've been studying Web Development since 2020, focusing on Front-end.
 
 **Courses i'm taking:**
 
-* 👨🏽‍💻 CS50's Introduction to Computer Science - HarvardX
-* Learning DevOps by my own
-* Studying GO on <a href="https://www.aprendago.com" target="_blank"/>aprendago.com</a>
+* Studying Cybersecurity on <a href="https://www.aprendago.com" target="_blank"/>aprendago.com</a>
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnative&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   ***
